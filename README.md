@@ -3,7 +3,7 @@ A recommender system built in PySpark and designed for HPC environment. Submitte
 
 For complete instruction and structure of project, please refer to original project description [here](https://github.com/yuwei-jacque-wang/Recommender-System-DSGA1004/blob/master/Instruction.md)
 
-### Description of files:
+## Description of files:
 - Train/Validation/Test splitting of user interactions: ***data.py***
   - Splitting data sets directly from NYU HDFS
   
@@ -22,3 +22,12 @@ For complete instruction and structure of project, please refer to original proj
   
 - Final report: 
   - [DSGA_1004_FInal_Report.pdf](https://github.com/yuwei-jacque-wang/Recommender-System-DSGA1004/blob/master/DSGA_1004_FInal_Report.pdf)
+
+## Contributors
+
+This project exists thanks to all the people who contribute, especially the three main authors:
+- Jacqueline Yuwei Wang [(profile](https://www.linkedin.com/in/jacqueline-yuwei-wang-309665b2/), [GitHub)](https://github.com/yuwei-jacque-wang)
+- Yi Xu [(profile)](https://www.linkedin.com/in/goodluckxuyi/)
+- Hong Gong [(profile)](https://www.linkedin.com/in/hong-gong/)
+
+And our professor Brian McFee who has provided advising and guidence.
